@@ -1,0 +1,3 @@
+PYTHON PROGRAMMING INTRODUCTION
+
+Python is a high-level, interpreted programming language known for its simple syntax and readability. It was created by Guido van Rossum and first released in 1991. Python is widely used in web development, data science, artificial intelligence, machine learning, automation, cybersecurity, and software development. Its extensive standard library and large community make it one of the most popular programming languages in the world. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming, making it suitable for beginners as well as professional developers.
